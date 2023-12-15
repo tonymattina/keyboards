@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\cvok.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_8ecf114cc289d66a602e1414249d5fce</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\source\cvok.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Charis SIL|10|   |0</DebugFont>
+        <CodeFont>Charis SIL|9|   |0</CodeFont>
+        <CharFont>Charis SIL|10|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_8f7afac161299a7b412b95a476960f8f</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\cvok.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_b1acfddea4410768eeeb780e393dc243</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\Splash.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_61a73fa3aa5fd7cba2bed0366aa8ec58</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\readme.html</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_10ed95fe4c66a26b4b5191549573d3d1</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\build\cvok.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_9a2fbfc6076553fc8f8cae9f6ac5d05d</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ec878e0fcf4cfd2e6604edd2a06a6f56</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\source\cvok.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_738626cec21df9611954e1e8bf9b3333</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\source\ok.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2d9b16149440d38b3fc3028d046237d7</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\..\..\CharisSIL-Bold.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_694743178167abb33475e8596a693fa7</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\..\..\CharisSIL-BoldItalic.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3804ce8fef1f5348c7a68670c757bf17</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\..\..\CharisSIL-Italic.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_01613081bdcfa68cbaead329f33ddd03</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\..\..\CharisSIL-Regular.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ab8280bf15aae90be5fd8a024f9282ac</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\build\ok.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b485aa9af388fcf356222491d6da7462</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\build\Splash.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_db6aa236ad478032c3dca8ab8274a3bd</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\build\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3fc1f962105cf8fd4680d5c42781eed3</ID>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\build\cvok.kvk</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>cvok.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\cvok.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>cvok.kvks</Filename>
+      <FileType>.kvks</FileType>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\build\cvok.kvks</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>ok.ico</Filename>
+      <FileType>.ico</FileType>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\build\ok.ico</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>cvok.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\source\cvok.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\welcome.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>ok.ico</Filename>
+      <FileType>.ico</FileType>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\source\ok.ico</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>cvok.keyboard_info</Filename>
+      <FileType>.keyboard_info</FileType>
+      <FullPath>C:\Users\Anthony\Documents\Keyman Developer\Projects\cvok\cvok.keyboard_info</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

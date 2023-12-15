@@ -1,0 +1,50 @@
+﻿c Colville-Okanagan Keyboard
+store(&Name)    "cvok"
+store(&Bitmap)  "ok.ico"
+store(&MnemonicLayout) "1"        c This keyboard uses a mnemonic layout.
+store(&ETHNOLOGUECODE) 'Oka'
+store(&COPYRIGHT) '©Tony Mattina'
+store(&VISUALKEYBOARD) 'cvok.kvks'
+begin unicode > use(Main)
+store(vowel) "aeiou"                                                                     c vowels that can be modified
+store(vstress1)  U+00E1  U+00E9  U+00ED  U+00F3  U+00FA    c all vowel symbols with acute
+store(vstress2)    U+00E0  U+00E8  U+00EC  U+00F2  U+00F9   c all vowel symbols with grave
+store(doubleuse)  "4678QvW|'_:"      c keys that are replaced by phonetic characters
+group(Main) using keys
++ '4' >  U+019B U+0313
++ '6' > U+0295
++ '7' > U+0294
++ '8' > U+0263
++ "Q" > U+221A
++ 'v' > U+0259
++ 'W' > U+02B7
++ '|' > U+026C
++ "_" > U+203F
++ ":" > U+02D1
++ "=" > U+F1EA
+c glott and laryng segments with comma above
+"m" + "'" > "m" U+0313
+"n" + "'" > "n" U+0313
+"y" + "'" > "y" U+0313
+"w" + "'" > "w" U+0313
+"p" + "'" > "p" U+0313
+"q" + "'" > "q" U+0313
+"l" + "'" > "l" U+0313
+"k" + "'" > "k" U+0313
+"c" + "'" > "c" U+0313
+"t" + "'" > "t" U+0313
+"r" + "'" > "r" U+0313
+U+0263 + "'" > U+0263 U+0313 c gamma
+U+0295 + "'" > U+0295  U+0313 c pharyngeal
+c stressed schwa
+U+0259 + "/" > U+0259 U+0301
+U+0259 + "\" > U+0259   U+0300
+"H" + "x" > "x" U+030C
+"H" + ":" > U+2022 c bullet
+any(vowel) + "\" > index(vstress2,1)
+any(vowel) + "/" > index(vstress1,1)
++ "0" > deadkey(zero)
+"." + "h" > "h" U+0323 c subdot h
+deadkey(zero) + any(doubleuse) > index(doubleuse, 2)
+deadkey(zero) + "=" > "="
+deadkey(zero) + "0" > "0"
