@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>17.0.332.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName>C:\Program Files (x86)\Keyman\Keyman Developer\Projects\Salish\keymandesktop100.msi</MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">salish</Name>
+    <Version URL="">1.0</Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>salish.kvk</Name>
+      <Description>File salish.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>salish.kmx</Name>
+      <Description>Keyboard salish</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>readme.html</Name>
+      <Description>File readme.html</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.html</FileType>
+    </File>
+    <File>
+      <Name>CharisSIL-Bold.ttf</Name>
+      <Description>Font Charis SIL Bold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>CharisSIL-BoldItalic.ttf</Name>
+      <Description>Font Charis SIL Bold Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>CharisSIL-Italic.ttf</Name>
+      <Description>Font Charis SIL Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>CharisSIL-Regular.ttf</Name>
+      <Description>Font Charis SIL</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>README.md</Name>
+      <Description>File README.md</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <Name>HowToTypeSalish.html</Name>
+      <Description>File HowToTypeSalish.html</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.html</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>salish</Name>
+      <ID>salish</ID>
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="oka">Okanagan</Language>
+        <Language ID="spo">Spokane</Language>
+        <Language ID="crd">Coeur d'Alene</Language>
+        <Language ID="col">Columbia-Wenatchi</Language>
+        <Language ID="thp">Thompson</Language>
+        <Language ID="shs">Shuswap</Language>
+        <Language ID="lil">Lillooet</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
